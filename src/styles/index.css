@@ -5,7 +5,30 @@
     margin: auto;
 
 }
-
+.btnRandom{
+    font-size: 45px;
+    background-color: green;
+    height: 100px;
+    position: absolute;
+    left: 15%;
+    bottom: 58%;
+}
+.btnRandom:hover{
+    background-color: greenyellow;
+}
+.btnViolet{
+    margin: auto;
+    font-size: 45px;
+    background-color: blueviolet;
+    height: 100px;
+    position: absolute;
+    left: 15%;
+    bottom: 45%;
+     
+}
+.btnViolet:hover{
+    background-color: violet;
+}
 .trafficLight{
     height: 500px;
     border-radius: 5%;
